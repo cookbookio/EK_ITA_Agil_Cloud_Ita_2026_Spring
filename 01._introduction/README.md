@@ -19,7 +19,7 @@
 
 ## Todays Teachings
 
-![](iassets/möbius_strip.png)
+![](assets/devops_technologies.png)
 
 [Awsome Recipe Cookbook](https://github.com/cookbookio/awsome_recipe_cookbook)
 
