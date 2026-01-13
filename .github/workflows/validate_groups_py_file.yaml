@@ -1,0 +1,46 @@
+name: Validate the groups.py file
+
+on:
+  pull_request:
+    paths:
+      - groups.py
+
+jobs:
+  validate-python:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        # Fetches the PR even when it comes from a fork
+        ref: ${{ github.event.pull_request.head.sha }}
+  
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Validate Python file
+      run: python -m py_compile groups.py
+
+    - name: Check GitHub links validity
+      run: |
+        python -c "
+        import json
+        import os
+
+        with open('groups.py', 'r') as file:
+            content = file.read()
+            exec(content)
+
+        for group in GROUP_REPOS:
+            for link in group.get('gitLinks', []):
+                if '/orgs/' not in link and '/repositories' not in link:
+                    print(f'Checking {link}')
+                    exit_code = os.system(f'curl -o /dev/null --silent --head --fail {link}')
+                    if exit_code != 0:
+                        raise Exception(f'Invalid link: {link}')
+                else:
+                    raise Exception(f'Links to /repositories instead of a specific repository: {link}')
+              "
