@@ -17,6 +17,7 @@
 
 * [DevOps Handbook](https://ek.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1462766)
     * Skim this - detailed reading will come later this semester.
+* [Install these](install_these.md)
 
 ## Todays Teachings
 
@@ -30,7 +31,7 @@
 * Group creation, and create a pull request with group info in groups.py
     * [create_a_pr_to_groups_py.md](create_a_pr_to_groups_py.md)
 
-
+* []()
 
 
 
