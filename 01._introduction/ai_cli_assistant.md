@@ -11,7 +11,7 @@ I this course you are required to use AI assistent CLI coding tools, and at the 
 ---
 
 Undereath you find a few descriptions of agentic coding asistants.    
-You should install Mistral-vibe, and you should try out at least one more. Remember to take notes, write down your impressions. You will have to use these notes in you final exam project. During the semester you are welcome to use more than one, or shift CLI tools, but you should evaluate your choises. 
+You should install **Mistral-vibe**, and you should try out at least one more. Remember to take notes, write down your impressions. You will have to use these notes in you final exam project. During the semester you are welcome to use more than one, or shift CLI tools, but you should evaluate your choises. 
 
 ---
 
@@ -29,19 +29,17 @@ It cost around 20$ a month to use.
 
 Some good tutorial can be found here: https://www.anthropic.com/learn
 
-
-## gemini-cli
-Gemini CLI is a google application. 
-As fare as i know it has a "free" version with limits. 
-
 ## GitHub Copilot CLI
 * [GitHub Copilot CLI](https://github.com/features/copilot/cli) 
-
 
 ## Codex CLI
 Is a OpenAI product.    
 https://developers.openai.com/codex/cli/ 
+If you have a Plus, Pro, Edu subscription already, it is included.
 
+## gemini-cli
+Gemini CLI is a google application. 
+As fare as i know it has a "free" version with limits. 
 
 There are many more, and please try them out. 
 
