@@ -30,7 +30,7 @@ This requires that before these teachings, you have [formed a group](../01._intr
 * [Monolith, mono-repo, multi-repo slides](04._monolith_monorepo_multirepo.md)
 <!-- * [Environment variables slides](05._environment_variables.md) -->
 
-
+* [Legacy code - awsome reciper_cookbook repository](https://github.com/cookbookio/awsome_recipe_cookbook)
 ## After Class
 
 * [Decide on a framework](decide_on_a_framework.md)
