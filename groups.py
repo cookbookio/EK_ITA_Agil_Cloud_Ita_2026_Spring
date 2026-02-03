@@ -15,7 +15,7 @@ GROUP_REPOS = [
             "backend": "",
             "frontend": "",
             "monitoring": "",
-            "stack": [],
+            "stack": ["Node", "Express", "SSR (EJS)"],
             "documentation": ["https://github.com/TheRizzlersOrg4Semester/Rizzlerpies/blob/main/README.md"],
             "members": ["Mike", "Johan", "Esben", "Mathias"],
         },
