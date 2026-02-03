@@ -74,6 +74,7 @@ Efter dette arbejder vi med Linux resten af dagen og på fredag.
 * [Linux terminal commands and file system](unix_commands.md)
 
 **Opgave**: 
+
     * Gå til jeres "Documents" folder
     * lav en ny mappe og kald den "DevOps"
     * i denne mappe lave en txt fil med navnet "show_your_work.txt"
