@@ -1,6 +1,8 @@
 # Linux OS
 I dag skal i have installeret Linux og i skal arbejde med operativsystemet gennem dets terminal.
 
+**Motivation**: stort set alt vi kommer til at arbejde med dette semester bliver udført gennem jeres terminal. Linux er det rigtige sted at lære om brugen af denne. Alle servere vi kommer til at arbejde med er Linux servere og den eneste adgang til disse er gennem terminalen. 
+
 ## Learning Goals
 * Installere Linux gennem Docker på din computer.
 * Bruge Linux OS gennem dens terminal.
