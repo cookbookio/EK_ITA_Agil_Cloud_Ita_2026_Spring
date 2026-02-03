@@ -36,7 +36,8 @@ Se og følg tutorials i de tre videoer:
 _(DevOps Handbook p. 54-61)_
 
 * **Make your work visible**
-    * Git, GitHub and good commit messages
+    * Git
+    * public GitHub and good commit messages
     * Kanban
     * Project
     * Release
