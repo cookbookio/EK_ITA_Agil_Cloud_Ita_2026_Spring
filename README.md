@@ -8,7 +8,7 @@
 |    1    |27/01     | [Introduction to IT-architechture, Cloud and DevOps](01._introduction/README.md)|
 |    2    |30/01     | [Exam project - Decide on a framework & convert code](02._decide_framework_convert_code/README.md)          |
 |    3    |3/2       | [Linux Crash Course](03._linux/readme.md)              |
-|    4    |6/2       | [Linux, windows and Mac](04)     |
+|    4    |6/2       | [Linux, windows and Mac](04._linux_win_mac/README.md)     |
 |    5    |10/2      | [CI - Git, branching strategies]()     |
 |    6    |13/2      | [CI - github actions]()     |
 |    7    |17/2      | [CI - code quality, linting, static code analysis]()     |
