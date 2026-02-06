@@ -11,11 +11,11 @@
 |    4    |6/2       | [Linux, windows and Mac](04._linux_win_mac/README.md)     |
 |    5    |10/2      | [CI - Git, branching strategies]()     |
 |    6    |13/2      | [CI - github actions]()     |
-|    7    |17/2      | [CI - code quality, linting, static code analysis]()     |
-|    8    |20/2      | [CI - Pull Requests, code reviews]()         |
+|    7    |17/2      | [Azure - Cloud](07._Azure_vm_portal_az/README.md)|
+|    8    |20/2      | [Continous_delivery](08._Continous_delivery/README.md)|
 |   9     |24/2      | [DevOps - transperency, issues, github project]()    |
-|   10    |27/2      |      |
-|   11    |3/3       |      |
+|   10    |27/2      | [CI - code quality, linting, static code analysis]()          |
+|   11    |3/3       | [CI - Pull Requests, code reviews]()             |
 |   12    |6/3       |      |
 |   13    |10/3      |      |
 |   14    |13/3      |      |
