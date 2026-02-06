@@ -21,7 +21,7 @@ GROUP_REPOS = [
         },
                 {
             "name": "LNS",
-            "gitLinks": ["https://github.com/Linus-nisse-segmentering/linus-kogebog"],
+            "gitLinks": ["https://github.com/Linus-nisse-segmentering/Agile-Linus"],
             "backend": "",
             "frontend": "",
             "monitoring": "",
