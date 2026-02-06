@@ -22,6 +22,7 @@ No preperation for today
 * [shell cheatsheet](shell_cheatsheet.md)
 * `https://raw.githubusercontent.com/wso2-attic/product-das/refs/heads/master/modules/samples/publishers/httpd-logs/resources/access.log`     
 * [Working with Environment Variables](env.md)
+* [Example Github Workflow demo](https://github.com/cookbookio/awsome_recipe_cookbook/blob/cicd-start-demo/.github/workflows/cicd-start-demo.yaml)
 * [Package Managers](package_managers.md)
 
 ## After Class
