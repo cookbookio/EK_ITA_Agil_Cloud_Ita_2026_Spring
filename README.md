@@ -9,7 +9,7 @@
 |    2    |30/01     | [Exam project - Decide on a framework & convert code](02._decide_framework_convert_code/README.md)          |
 |    3    |3/2       | [Linux Crash Course](03._linux/readme.md)              |
 |    4    |6/2       | [Linux, windows and Mac](04._linux_win_mac/README.md)     |
-|    5    |10/2      | [CI - Git, branching strategies]()     |
+|    5    |10/2      | [CI - Git, branching strategies](05._git_branching_strategies/README.md)     |
 |    6    |13/2      | [CI - github actions]()     |
 |    7    |17/2      | [Azure - Cloud](07._Azure_vm_portal_az/README.md)|
 |    8    |20/2      | [Continous_delivery](08._Continous_delivery/README.md)|
