@@ -28,6 +28,8 @@ No preperation for today
 
 * Make sure you have a [Package Managers](package_managers.md) installed on either Mac or Windows.
 
+Go through this checklist before the weekend starts:    
+
 - [x] Make sure to have a group organization on github   
 - [x] Make sure to have a cookbook repository, with your own framework code   
 - [x] Make sure to have a the groups.py file up to date with repo url, group memebers and stack information.  
