@@ -1,6 +1,6 @@
 # Fork a repository with GitHub CLI
 
-To fork a repository using the GitHub CLI (`gh`) from the command line, follow these steps:
+To fork a repository using the GitHub CLI (`gh`) from the command line.
 
 ---
 
@@ -43,4 +43,4 @@ Fork a Repository with gh CLI
 |------|---------|
 | Authenticate with GitHub | `gh auth login` |
 | Fork and clone the repository | `gh repo fork OWNER/REPOSITORY --clone=true` |
-| Navigate to the repository | `cd REPOSITORY
+| Navigate to the repository | `cd REPOSITORY`|

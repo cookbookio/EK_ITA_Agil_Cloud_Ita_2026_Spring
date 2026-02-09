@@ -35,3 +35,11 @@ We start out by all groups show their work so far.
 * [The Ultimate Guide to Git Branching Strategies](https://blog.prateekjain.dev/the-ultimate-guide-to-git-branching-strategies-6324f1aceac2)
 -->
 ## After Class
+
+* [Research git branching strategies](research_git_branching_strategies.md)
+* [Choose a git branching strategy](choose_a_git_branching_strategy.md)
+* [Learn branching](learn_branching.md)
+* [Create a merge conflict](create_a_merge_conflict.md)
+
+
+

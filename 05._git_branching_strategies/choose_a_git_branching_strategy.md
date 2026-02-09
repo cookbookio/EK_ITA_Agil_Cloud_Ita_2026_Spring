@@ -2,7 +2,7 @@
 
 **Type**: Group work
 
-**Part of mandatory I.**
+**Part of the exam report**
 
 ---
 
@@ -14,9 +14,9 @@ Every group member should be able to talk about the chosen version control strat
 
 --- 
 
-### Document for the mandatory
+### Document for the exam report
 
-Create a document for the mandatory that answers the following questions:
+Create a document for the exam report that answers the following questions:
 
 - What version control strategy did you choose and how did you actually do it / enforce it?
 
@@ -24,6 +24,8 @@ Create a document for the mandatory that answers the following questions:
 
 - What advantages and disadvantages did you run into during the course?
 
-Feel free to revise the document even after deadline with new insights during the course.
+
+### An agile document
+This document should be reviseted during the course. It is not a static document that you write now and never think about again. It is a working document that is updated whenever things change in your strategies.
 
 
