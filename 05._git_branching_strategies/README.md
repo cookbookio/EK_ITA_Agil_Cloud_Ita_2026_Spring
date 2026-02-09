@@ -30,6 +30,11 @@ We start out by all groups show their work so far.
 * Merge branches to trunk at least daily.
 * Avoid long-lived branches.
 
+
+* [Black board demo - Git Cheatsheet](git_cheatcheet.md)
+
+
+
 <!--
 * [Git Branching Strategies: A Comprehensive Guide](https://dev.to/karmpatel/git-branching-strategies-a-comprehensive-guide-24kh)
 * [The Ultimate Guide to Git Branching Strategies](https://blog.prateekjain.dev/the-ultimate-guide-to-git-branching-strategies-6324f1aceac2)
