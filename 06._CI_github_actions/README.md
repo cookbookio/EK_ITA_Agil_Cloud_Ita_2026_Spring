@@ -13,7 +13,6 @@
 ## Todays Teachings
 
 <!--
-* [understanding github actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
 * [Introduction to GitHub Actions](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-actions/)
 -->
 
@@ -21,4 +20,4 @@
 
 ## After Class
 
-
+* [yaml-exercise.html](/exercises/yaml-exercise.html)
