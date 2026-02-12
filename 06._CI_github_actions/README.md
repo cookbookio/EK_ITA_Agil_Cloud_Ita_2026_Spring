@@ -2,6 +2,12 @@
 
 
 ## learning Goals
+* Understand yaml syntax
+* Understand basics of github actions
+* Understand basics of a workflow and how the elements, events, jobs, actions, runners are connected in a workflow
+* Understand the use of github secrets
+* Be able to work with and write PR  templates
+* Be able to work with and write ISSUES templates
 
 ## Before Class
 
@@ -15,16 +21,6 @@
 * [GitHub actions](02._github_actions.md)
 * [GitHub issues workflow](03._github_issues_workflow.md)
 * [GitHub secrets](04._github_secrets.md)
-
-
-
-
-
-<!--
-* [Introduction to GitHub Actions](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-actions/)
--->
-
-
 
 ## After Class
 
