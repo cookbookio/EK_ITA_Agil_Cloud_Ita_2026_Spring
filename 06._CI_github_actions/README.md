@@ -29,4 +29,6 @@
 ## After Class
 
 * [Practice yaml](exercises/practice_yaml.md)
-
+* [GitHub pr template](github_pr_template.md)
+* [github issue template](github_issue_template.md)
+* [define github secrets](define_github_secrets.md)
