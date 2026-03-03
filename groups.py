@@ -5,7 +5,7 @@ GROUP_REPOS = [
             "backend": "http://131.163.89.207/api",
             "frontend": "http://131.163.89.207/",
             "monitoring": "",
-            "stack": [],
+            "stack": ["Go", "SQLite", "GHCR"],
             "documentation": ["http://131.163.89.207/swagger"],
             "members": ["Felix Llambias", "Nicholas Ladik", "Christian Skovgaard", "Victor Lotz"],
         },
