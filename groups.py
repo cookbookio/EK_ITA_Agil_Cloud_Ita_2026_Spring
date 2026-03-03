@@ -50,5 +50,15 @@ GROUP_REPOS = [
             "stack": ["Node.js","React"],
             "documentation": ["https://github.com/Balladebaderne/cookbook/blob/master/README.md"],
             "members": ["Magnus Giemsa", "Laurits Munk", "Elias Garcia", "Andreas Brandenborg", "Jacob Bisgård"],
+        },
+{
+            "name": "Andreas INC.",
+            "gitLinks": ["https://github.com/AndreasRG/recipe-book-project-exam-26"],
+            "backend": "",
+            "frontend": "",
+            "monitoring": "",
+            "stack": [""],
+            "documentation": ["https://github.com/AndreasRG/recipe-book-project-exam-26/blob/master/README.md"],
+            "members": ["Andreas Révész Gudmann"],
         }
 ]
