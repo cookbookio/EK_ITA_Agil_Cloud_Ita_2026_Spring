@@ -17,7 +17,7 @@
 |   10    |27/2      | [Continous delivery](09._Continous_delivery/README.md)|
 |   11    |3/3       | No Teachings in class - [Groups - Getting ready for presentation](10._groupwork/README.md)|
 |   12    |6/3       | [Presentation](11._presentation_of_project/README.md)                |
-|   13    |10/3      |      |
+|   13    |10/3      | [CI code quality linting static code analysis](12._CI_code_quality_linting_static_code_analysis/README.md)     |
 |   14    |13/3      |      |
 |   15    |17/3      |      |
 |   16    |20/3      | CASE 1: Vibe-Hackaton |
