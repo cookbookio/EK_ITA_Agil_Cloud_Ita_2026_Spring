@@ -54,11 +54,11 @@ GROUP_REPOS = [
 {
             "name": "Andreas INC.",
             "gitLinks": ["https://github.com/AndreasRG/Awesome-Recipe-Book--2026-AndreasRG-Edition"],
-            "backend": "",
+            "backend": "http://131.163.81.147:5000/api/",
             "frontend": "http://131.163.81.147:5000/",
             "monitoring": "",
             "stack": ["Python", "SQLAlchemy", "FastAPI"],
-            "documentation": ["https://github.com/AndreasRG/Awesome-Recipe-Book--2026-AndreasRG-Edition/blob/master/README.md"],
+            "documentation": ["http://131.163.81.147:5000/docs"],
             "members": ["Andreas Révész Gudmann"],
         }
 ]
