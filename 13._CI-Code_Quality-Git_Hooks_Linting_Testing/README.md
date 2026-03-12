@@ -6,7 +6,9 @@ This session also provides an overview of what we covered so far and where you c
 
 
 ## Learning Goals
-
+* Understand the concept of Git Hooks
+* Be able to work with GitHooks through a precommit tool
+ 
 ## Before Class
 Have a look at these files:
 
