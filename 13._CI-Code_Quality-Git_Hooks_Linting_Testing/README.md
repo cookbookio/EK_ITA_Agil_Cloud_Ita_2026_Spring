@@ -26,7 +26,7 @@ Last time we looked at adding linters to our [workflow on GitHub](https://github
 
 * [GitHooks](tutorial_githooks.md)
 * [Precommit](tutorial_precommit.md)
-
+* [PyTest Precommits](tutorial_pytest_precommit.md)
 
 ## After Class
 For the one of you using Javascript you can have a look at these tools: 
