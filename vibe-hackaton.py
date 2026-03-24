@@ -1,12 +1,12 @@
 GROUP_REPOS = [
     {
-        "name": "",
-        "gitLinks": [""],
+        "name": "SNL",
+        "gitLinks": ["https://github.com/nixhajete09/DonationPlatform"],
         "backend": "",
-        "frontend": "",
+        "frontend": "http://4.223.129.174:4567",
         "monitoring": "",
-        "stack": [],
+        "stack": ["ruby", "sinatra", "SQLite", "HTML", "CSS", "RSpec", "Rack", "Reek"],
         "documentation": [],
-        "members": [],
+        "members": ["Lukas", "Nixhajete", "Sahra"],
     },
 ]
