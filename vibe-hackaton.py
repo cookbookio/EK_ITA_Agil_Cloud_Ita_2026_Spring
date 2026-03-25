@@ -9,4 +9,14 @@ GROUP_REPOS = [
         "documentation": [],
         "members": ["Lukas", "Nixhajete", "Sahra"],
     },
+    {
+        "name": "The Rizzlers",
+        "gitLinks": ["https://github.com/TheRizzlersOrg4Semester/Hackathon-case"],
+        "backend": "",
+        "frontend": "http://20.251.169.74",
+        "monitoring": "",
+        "stack": ["Typescript", "Next.js", "React", "Tailwind CSS", "node.js", "PostgreSQL", "Prisma ORM", "Docker + Docker compose", "Azure VM", "Nginx", "Resend mailservice"],
+        "documentation": [],
+        "members": ["Esben", "Johan", "Mathias", "Mike"],
+    },
 ]
