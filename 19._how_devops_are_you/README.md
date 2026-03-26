@@ -1,4 +1,5 @@
 # How DevOps are you?
+Today you should analyse your Hackaton project based on the theory from the "The DevOps Handbook".
 
 ## Learning Goals
 * Analyse you recent project and based on theory evaluate how DevOps you where during the project period.
