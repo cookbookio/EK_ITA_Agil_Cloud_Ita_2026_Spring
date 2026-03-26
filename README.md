@@ -24,7 +24,7 @@
 |   17    |24/3      | CASE 1: Vibe-Hackaton    |
 |   18    |26/3      | CASE 1: Vibe-Hackaton    |
 |         |          | Holiday |
-|   19    |7/4       | [How DevOps are you?]()     |
+|   19    |7/4       | [How DevOps are you?](19._how_devops_are_you/README.md)     |
 |   20    |10/4      |      |
 |   21    |14/4      |      |
 |   22    |17/4      |      |
