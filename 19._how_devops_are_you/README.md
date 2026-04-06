@@ -7,7 +7,7 @@ Today you should analyse your Hackaton project based on the theory from the "The
 ## Before Class
 
 * [The DevOps Handbook - Part 1](https://ek.itslearning.com/ContentArea/ContentArea.aspx?LocationID=7575&LocationType=1&TextURL=%2fLearningToolElement%2fViewLearningToolElement.aspx%3fLearningToolElementId%3d1462766)
-* [Detecting Agil BS](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
+<!-- * [Detecting Agil BS](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF) -->
 * Make sure your hackaton project is running on Azure.
 
 ## Todays Teachings
