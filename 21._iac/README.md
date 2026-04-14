@@ -19,7 +19,7 @@ From last time:
 
 From today:    
 * [Awsome recipe cookbook - **IaC**](https://github.com/cookbookio/awsome_recipe_cookbook/tree/IaC/infrastructure)
-
+* [http://20.100.192.71/](http://20.100.192.71/)
 ## After Class
 
 * [IaC in your own project](03._cookbook_iac.md)
