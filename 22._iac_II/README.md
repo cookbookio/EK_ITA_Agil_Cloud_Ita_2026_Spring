@@ -28,28 +28,6 @@ And you should use this checklist as a reference.
 
 * [Infrastructure Check list](01._infrastructure_check_list.md)
 
-<!--
-* [Awesome recipe cookbook - **IaC**](https://github.com/cookbookio/awsome_recipe_cookbook/tree/IaC/infrastructure)
+Generally when implementing a new feature as this is, you should follow the approach in this document.
 
-You should:
-* Fork this repo - remember to include all branches in your fork.
-* clone it to your local machine, and checkout the IaC branch.
-* cd into the infrastructure folder, and `./azure-setup.sh` 
-
-This should create a resource group with 2 VMs and setup the secrets on github.      
-You might need to change the location in the azure-setup.sh so it fits to your account settings.
-
-Then push the code to github and watch the action run.     
-You will need to create a `CR_PAT` in the secrets.    
-You will need to make your packages (docker images) public.    
-Run the actions again, and it should be deployed on Azure. 
-
-* run the `azure-teardown.sh` script.
-
-This exercise should be done several times until you are secure in the process.
-
-## After Class
-
-* [IaC in your own project](../21._iac/03._cookbook_iac.md)
-
--->
+* [Developing a new feature](02._developing_a_new_feature.md)
