@@ -30,16 +30,16 @@
 |   22    |17/4      | [IaC - Infrastructure as code II](22._iac_II/README.md)         |
 |   23    |21/4      | **Ingen undervisning i dag** |
 |   24    |24/4      | **Ingen undervisning i dag** |
-|   25    |28/4      | [Monitoring Logging]() |
-|   26    |1/5       | [Deployment strategies]()    |
-|   27    |5/5       | Summary of the semester     |
+|   25    |28/4      | [Monitoring Logging](23._monitoring_logging/README.md) |
+|   26    |1/5       | [Deployment strategies](24._deployment_stretegies/README.md)  |
+|   27    |5/5       | [Summary of the semester]()     |
 |   28    |8/5       | CASE 2   |
 |   29    |12/5      | CASE 2     |
 |       |            | Holiday      |
 |   30    |19/5      | Exam Project Start up    |
-|   31    |22/5      |  Exam Project         |
-|   32    |26/5      |   Exam Project        |
-|   33    |27/5      |   Hand-in Exam Project on Wiseflow       |
+|   31    |22/5      | Exam Project         |
+|   32    |26/5      | Exam Project        |
+|   33    |27/5      | Hand-in Exam Project on Wiseflow       |
 
 
 
