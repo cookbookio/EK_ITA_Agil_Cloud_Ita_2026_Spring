@@ -33,8 +33,8 @@
 |   25    |28/4      | [Monitoring Logging](23._monitoring_logging/README.md) |
 |   26    |1/5       | [Deployment strategies](24._deployment_stretegies/README.md)  |
 |   27    |5/5       | [Summary of the semester]()     |
-|   28    |8/5       | CASE 2   |
-|   29    |12/5      | CASE 2     |
+|   28    |8/5       | NTG Case |
+|   29    |12/5      | NTG Case |
 |       |            | Holiday      |
 |   30    |19/5      | Exam Project Start up    |
 |   31    |22/5      | Exam Project         |
