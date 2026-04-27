@@ -32,3 +32,24 @@ And you will apply it to your own project:
 Setting this up at azure:
 
 * [Monitoring a multi-VM deployment on Azure](03._azure_multivm_monitoring.md)
+
+Todays CookBook example dealing with **Monitoring** can be found here:
+
+```
+{
+            "name": "Awesome Repipee Cookbook",
+            "gitLinks": ["https://github.com/cookbookio/awsome_recipe_cookbook/tree/monitoring"],
+            "backend": "http://4.235.98.142/api/",
+            "frontend": "http://4.235.98.142",
+            "monitoring": ["http://4.235.98.142:9090", "http://4.235.98.142:3000"],
+            "stack": ["Flask", "Postgres", "OpenApi", "Grafana", ],
+            "documentation": ["http://4.235.98.142/apidocs"],
+            "members": ["Claus"],
+}
+```
+
+
+
+* [Awsome Recipee Cookbook - Monitoring Branch](https://github.com/cookbookio/awsome_recipe_cookbook/tree/monitoring)
+* [Fronend at Azure](http://4.235.98.142/)
+* [Backend at Azure](http://4.235.98.142/)
