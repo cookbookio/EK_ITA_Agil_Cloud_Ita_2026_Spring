@@ -33,7 +33,7 @@ Setting this up at azure:
 
 * [Monitoring a multi-VM deployment on Azure](03._azure_multivm_monitoring.md)
 
-Todays CookBook example dealing with **Monitoring** can be found here:
+The CookBook example dealing with **Monitoring** can be found here:
 
 ```
 {
@@ -42,14 +42,12 @@ Todays CookBook example dealing with **Monitoring** can be found here:
             "backend": "http://4.235.98.142/api/",
             "frontend": "http://4.235.98.142",
             "monitoring": ["http://4.235.98.142:9090", "http://4.235.98.142:3000"],
-            "stack": ["Flask", "Postgres", "OpenApi", "Grafana", ],
+            "stack": ["Flask", "Postgres", "OpenApi", "Grafana", "Prometheus" ],
             "documentation": ["http://4.235.98.142/apidocs"],
             "members": ["Claus"],
 }
 ```
+## After Class
 
+* [What is: Grafana & Prometheu](04._grafana_prometheus.md)
 
-
-* [Awsome Recipee Cookbook - Monitoring Branch](https://github.com/cookbookio/awsome_recipe_cookbook/tree/monitoring)
-* [Fronend at Azure](http://4.235.98.142/)
-* [Backend at Azure](http://4.235.98.142/)
