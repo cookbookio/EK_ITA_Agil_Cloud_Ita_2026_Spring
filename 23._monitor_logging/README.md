@@ -50,4 +50,5 @@ The CookBook example dealing with **Monitoring** can be found here:
 ## After Class
 
 * [What is: Grafana & Prometheus](04._grafana_prometheus.md)
+* [Exercise: What Should You Actually Measure?](05._useful_metrics_exercise.md)
 
