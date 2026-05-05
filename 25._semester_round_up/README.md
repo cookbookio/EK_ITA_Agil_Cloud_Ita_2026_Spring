@@ -19,7 +19,7 @@ We sum up what we have covered in [this semesters teaching](semester_overview.md
 
 This will be a good checklist of what you should includ in your CookBook repository when you hand it in at Wiseflow.
 
-The **actual exam requirements** you will get on the **18th of May**, but it will be heavily based on all what you did this semester. Therefore this walkthrough can be used as a checklist for what you need to include in your examproject handin. 
+The **actual exam requirements** you will get on the **18th of May**, but what we have done so fare this semester will for be something you are expected to hand-in. Therefore this walkthrough can be used as a checklist for what you need to include in your examproject handin. 
 
 #### Weekly DevOps Principle!
 * DevOps is culture.
