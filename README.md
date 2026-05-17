@@ -36,9 +36,9 @@
 |   28    |8/5       | NTG Case |
 |   29    |12/5      | NTG Case |
 |       |            | Holiday      |
-|   30    |19/5      | Exam Project Start up    |
-|   31    |22/5      | Exam Project         |
-|   32    |26/5      | Exam Project        |
+|   30    |19/5      | [Exam Project Start up](30._exam_project/README.md)    |
+|   31    |22/5      | [Exam Project ](30._exam_project/README.md)    |
+|   32    |26/5      | [Exam Project ](30._exam_project/README.md)    |
 |   33    |27/5      | Hand-in Exam Project on Wiseflow       |
 
 
