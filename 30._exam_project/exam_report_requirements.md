@@ -39,9 +39,9 @@ However, these are the formalities that your report must include:
 - Group name (as per `groups.py`) and student names with KEA mail and GitHub usernames (if applicable).
 - Page numbers
 - Table of contents 
+- Links to your **GitHub repositories** and **live endpoints**.
 - A **Theory Section** description of the theory which you have based your work on in this class this semester, and especially which parts of the theory you have used and which you haven´t.
 - A **CI/CD pipeline** section, describing your ci/cd pipeline (please use diagrams in this section!).
-- Links to your **GitHub repositories** and **live endpoints**.
 - A **Reflection Section** on the DevOps principles you have worked with this semester — which principles you have applied, how they have influenced your workflow, and what you would do differently.
 
 **Adwise**: Keep you report super precise. Do not use more words than nessesary!
