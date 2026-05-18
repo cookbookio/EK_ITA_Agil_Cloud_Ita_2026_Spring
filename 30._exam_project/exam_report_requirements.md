@@ -42,6 +42,7 @@ However, these are the formalities that your report must include:
 - Links to your **GitHub repositories** and **live endpoints**.
 - A **Theory Section** description of the theory which you have based your work on in this class this semester, and especially which parts of the theory you have used and which you haven´t.
 - A **CI/CD pipeline** section, describing your ci/cd pipeline and Azure VM architecture (please use diagrams in this section!).
+- A **Database Migration** section, documenting the development of the new database feature described in `exam_features.md` — your process, the DevOps choices you made, and how the migration was carried out.
 - A **Reflection Section** on the DevOps principles you have worked with this semester — which principles you have applied, how they have influenced your workflow, and what you would do differently.
 
 **Adwise**: Keep you report super precise. Do not use more words than nessesary!
