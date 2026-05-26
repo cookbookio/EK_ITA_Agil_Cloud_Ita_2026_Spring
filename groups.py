@@ -2,11 +2,11 @@ GROUP_REPOS = [
         {
             "name": "DenDanskeMetode",
             "gitLinks": ["https://github.com/DenDanskeMetode/legacyProject"],
-            "backend": "http:20.100.169.50/api",
-            "frontend": "http://20.100.169.50",
-            "monitoring": "http://20.100.169.50/grafana",
+            "backend": "http:20.251.36.80/api",
+            "frontend": "http://20.251.36.80",
+            "monitoring": "http://20.251.36.80/grafana",
             "stack": ["Go", "PostgreSQL", "GHCR", "Azure", "GH workflows", "nginx", "Grafana", "Prometheus", "Docker"],
-            "documentation": ["http://20.100.169.50/swagger","https://github.com/DenDanskeMetode/legacyProject/blob/master/readme.md"],
+            "documentation": ["http://20.251.36.80/swagger","https://github.com/DenDanskeMetode/legacyProject/blob/master/readme.md"],
             "members": ["Felix Llambias", "Nicholas Ladik", "Christian Skovgaard", "Victor Lotz"],
         },
         {
