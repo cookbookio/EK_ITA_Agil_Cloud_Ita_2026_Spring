@@ -42,11 +42,11 @@ GROUP_REPOS = [
                 {
             "name": "BalladeBaderne",
             "gitLinks": ["https://github.com/Balladebaderne/cookbook"],
-            "backend": "http://172.189.59.40/api",
-            "frontend": "http://172.189.59.40",
-            "monitoring": "",
-            "stack": ["Node.js", "Express", "React", "SQLite", "Docker", "Nginx", "Azure VM"],
-            "documentation": ["http://172.189.59.40/apidocs/"],
+            "backend": "http://20.216.171.163/api",
+            "frontend": "http://20.216.171.163",
+            "monitoring": "http://20.216.171.163/grafana",
+            "stack": ["Node.js", "node:http", "React", "PostgreSQL", "Docker", "Nginx", "Prometheus", "Grafana", "Azure VM"],
+            "documentation": ["http://20.216.171.163/apidocs/"],
             "members": ["Magnus Giemsa", "Laurits Munk", "Elias Garcia", "Andreas Brandenborg", "Jacob Bisgaard"],
         },
         {
