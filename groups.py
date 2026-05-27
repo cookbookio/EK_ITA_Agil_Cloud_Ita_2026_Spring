@@ -23,11 +23,11 @@ GROUP_REPOS = [
                 {
             "name": "LNS",
             "gitLinks": ["https://github.com/Linus-nisse-segmentering/Agile-Linus"],
-            "backend": "",
-            "frontend": "",
-            "monitoring": "",
-            "stack": ["ruby","sinatra","rack/rackup", "puma", "ERB", "SQlite3", "HTML", "CSS"],
-            "documentation": [],
+            "backend": "http://20.43.63.208/api/",
+            "frontend": "http://20.43.63.208",
+            "monitoring": "http://20.43.63.208/grafana/login",
+            "stack": ["ruby","sinatra","rack/rackup", "puma", "ERB", "PostgreSQL", "HTML", "CSS"],
+            "documentation": ["http://20.43.63.208/apidocs"],
             "members": ["Lukas", "Nixhajete", "Sahra"],
         },
         
