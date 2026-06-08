@@ -34,19 +34,19 @@ GROUP_REPOS = [
             "gitLinks": ["https://github.com/ostemadprinsesse/Dinner-served-and-ate"],
             "backend": "https://github.com/ostemadprinsesse/Dinner-served-and-ate/pkgs/container/dinner-served-backend",
             "frontend": "https://github.com/ostemadprinsesse/Dinner-served-and-ate/pkgs/container/dinner-served-frontend",
-            "monitoring": ["Prometheus: http://4.233.100.138:9090", "Grafana: http://4.233.100.138:3000"]
-            "stack": ["JavaScript", "React","Node.js","Express", "PostgreSQL", ],
+            "monitoring": ["Prometheus: http://4.233.100.138:9090", "Grafana: http://4.233.100.138:3000"],
+            "stack": ["JavaScript", "React","Node.js","Express", "PostgreSQL"],
             "documentation": ["https://github.com/ostemadprinsesse/Dinner-served-and-ate/blob/main/README.md"],
             "members": ["Linea", "Jonas", "Føen (Faprao)", "Nikoleta"],
         },
-                {
+        {
             "name": "BalladeBaderne",
             "gitLinks": ["https://github.com/Balladebaderne/cookbook"],
-            "backend": "http://20.216.171.163/api",
-            "frontend": "http://20.216.171.163",
-            "monitoring": "http://20.216.171.163/grafana",
+            "backend": "http://4.211.254.152/api",
+            "frontend": "http://4.211.254.152",
+            "monitoring": "http://4.211.254.152/grafana",
             "stack": ["Node.js", "node:http", "React", "PostgreSQL", "Docker", "Nginx", "Prometheus", "Grafana", "Azure VM"],
-            "documentation": ["http://20.216.171.163/apidocs/"],
+            "documentation": ["http://4.211.254.152/apidocs/"],
             "members": ["Magnus Giemsa", "Laurits Munk", "Elias Garcia", "Andreas Brandenborg", "Jacob Bisgaard"],
         },
         {
