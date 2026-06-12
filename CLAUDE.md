@@ -26,7 +26,7 @@ Other key locations:
 ## Semester Topics (in order)
 
 1. Intro, SSH, legacy codebase, OpenAPI/Swagger
-2. Framework selection, code migration (no Flask/Express/Spring Boot allowed in student projects)
+2. Framework selection, code migration (no Flask/Spring Boot allowed in student projects)
 3–4. Linux, cross-platform tooling
 5. Git branching strategies
 6. GitHub Actions (CI)
@@ -51,4 +51,4 @@ Each entry has: `name`, `gitLinks`, `backend`, `frontend`, `monitoring`, `stack`
 
 ## Exam Requirements Summary
 
-Students must: use version control with a branching strategy, implement CI/CD (GitHub Actions or equivalent), deploy to cloud (Azure or similar), implement linting/testing, write an exam report, and present a live deployment. Framework must not be Flask, Express, or Spring Boot.
+Students must: use version control with a branching strategy, implement CI/CD (GitHub Actions or equivalent), deploy to cloud (Azure or similar), implement linting/testing, write an exam report, and present a live deployment. Framework must not be Flask or Spring Boot.
